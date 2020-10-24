@@ -18,7 +18,7 @@ let checkFermatClosure = {
     }
     else
     {
-        let minValueOfn = "The value of n must be reater than 2!"
+        let minValueOfn = "The value of n must be greater than 2!"
         return minValueOfn
     }
 }
